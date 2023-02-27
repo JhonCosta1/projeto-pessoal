@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container {
+    width: 900px;
+    text-align: center;
+    background: green;
+    margin: 0 auto;
+    
+    
+}
+
+#area-bv {
+    background: red;
+    float: left;
+    width: 500px;
+    
+    
+}
+
+#area-login {
+    background: blue;
+    width: 400px;
+    float: right;
+    
+}
+
